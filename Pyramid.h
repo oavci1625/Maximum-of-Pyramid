@@ -6,8 +6,8 @@
 * Level is the height of the new node to be added and the count is the index of this node for this level
 */
 
-#ifndef PYRAMID
-#define PYRAMID
+#ifndef PYRAMID_H
+#define PYRAMID_H
 
 #include "PyramidNode.h"
 #include <iostream>
@@ -37,4 +37,4 @@ public:
     int getSum();
 };
 
-#endif // PYRAMID
+#endif // PYRAMID_H
