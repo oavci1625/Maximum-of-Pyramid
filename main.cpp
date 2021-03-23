@@ -19,5 +19,5 @@ int main(){
     
     pyramid.printAll();
     cout<<"----------------------------------------------------------------"<<endl;
-    cout<<"Maximum sum of the path of numbers whic are not prime is "<<pyramid.getSum()<<endl;
+    cout<<"Maximum sum of the path of numbers which are not prime is "<<pyramid.getSum()<<endl;
 }
